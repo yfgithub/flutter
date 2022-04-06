@@ -1,0 +1,17 @@
+[
+	{"id":"1",
+	"title":"灯塔",
+	"subTitle":"迷茫的时候需要你的照明",
+	"description":"人生无常，有时候你觉得人生充满了激情，那是因为你有了目标，为目标而奋斗，当你失去方向的时候特别迷茫，需要灯塔的照明，指引方向！",
+	"image":"https://static.imsttech.com/flutter/images/welcome0.jpg"},
+	{"id":"2",
+	"title":"都市",
+	"subTitle":"霓虹灯下行走",
+	"description":"人生无常，有时候你觉得人生充满了激情，那是因为你有了目标，为目标而奋斗，当你失去方向的时候特别迷茫，需要灯塔的照明，指引方向！",
+	"image":"https://static.imsttech.com/flutter/images/welcome1.jpg"},
+	{"id":"3",
+	"title":"海边",
+	"subTitle":"一望无边、忘记烦恼",
+	"description":"人生无常，有时候你觉得人生充满了激情，那是因为你有了目标，为目标而奋斗，当你失去方向的时候特别迷茫，需要灯塔的照明，指引方向！",
+	"image":"https://static.imsttech.com/flutter/images/welcome2.jpg"}
+]
